@@ -21,8 +21,11 @@ The dataset (`retail_sales`) includes the following fields:
 
 ## 📁 Files Included
 Dataset--<a href="https://github.com/vishalmehta01/Retail_sales_analysis_-sql-/blob/main/Retail_Sales_dataset.csv">Retail sales dataset</a>
+
 SQL Commands--<a href="https://github.com/vishalmehta01/Retail_sales_analysis_-sql-/blob/main/Retail_dataset%20sql%20queries.sql">Reatil sales sql</a>
+
 docx(Queries to copy paste and their results)--<a href="https://github.com/vishalmehta01/Retail_sales_analysis_-sql-/blob/main/retail_dataset%20sql%20queries%20and%20result.docx">Bike sales WORD</a>
+
 
 ### 🔹 Data Exploration
 - Total number of sales
