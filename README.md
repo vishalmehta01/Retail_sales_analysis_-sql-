@@ -4,7 +4,7 @@
 A comprehensive SQL project analyzing a retail sales dataset to answer key business questions using SQL queries. Ideal for showcasing SQL skills for data analysis, data exploration, and performance reporting.
 
 ## 📦 Dataset Overview
--<a href="link">Bike sales dataset</a>
+-<a href="https://github.com/vishalmehta01/Retail_sales_analysis_-sql-/blob/main/Retail_Sales_dataset.csv">Retail sales dataset</a>
 
 The dataset (`retail_sales`) includes the following fields:
 
@@ -20,10 +20,9 @@ The dataset (`retail_sales`) includes the following fields:
 
 
 ## 📁 Files Included
-
-
-
-## 🧮 Key SQL Tasks
+Dataset--<a href="https://github.com/vishalmehta01/Retail_sales_analysis_-sql-/blob/main/Retail_Sales_dataset.csv">Retail sales dataset</a>
+SQL Commands--<a href="https://github.com/vishalmehta01/Retail_sales_analysis_-sql-/blob/main/Retail_dataset%20sql%20queries.sql">Reatil sales sql</a>
+docx(Queries to copy paste and their results)--<a href="https://github.com/vishalmehta01/Retail_sales_analysis_-sql-/blob/main/retail_dataset%20sql%20queries%20and%20result.docx">Bike sales WORD</a>
 
 ### 🔹 Data Exploration
 - Total number of sales
